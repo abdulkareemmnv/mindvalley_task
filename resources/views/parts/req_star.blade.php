@@ -1,0 +1,1 @@
+<span class="_req_star text-red" style="font-size: 15px;"> *</span>
